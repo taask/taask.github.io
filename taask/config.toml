@@ -1,0 +1,4 @@
+baseURL = "https://core.taask.io/"
+languageCode = "en-us"
+title = "Taask Core"
+theme = "base16"
