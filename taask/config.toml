@@ -1,4 +1,4 @@
-baseURL = "https://core.taask.io/"
+baseURL = "https://core.taask.xyz/"
 languageCode = "en-us"
 title = "Taask Core"
 theme = "base16"

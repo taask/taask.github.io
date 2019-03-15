@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Taask Core</title>
-    <link>https://core.taask.io/news/</link>
+    <link>https://core.taask.xyz/news/</link>
     <description>Recent content in News on Taask Core</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Dec 2018 13:40:06 -0500</lastBuildDate>
     
-	<atom:link href="https://core.taask.io/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://core.taask.xyz/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Taask Core on GitHub</title>
-      <link>https://core.taask.io/news/taask-core/</link>
+      <link>https://core.taask.xyz/news/taask-core/</link>
       <pubDate>Sat, 15 Dec 2018 13:40:06 -0500</pubDate>
       
-      <guid>https://core.taask.io/news/taask-core/</guid>
+      <guid>https://core.taask.xyz/news/taask-core/</guid>
       <description>Taask on GitHub
 👋 Welcome!
 Taask Core is an open source system for running arbitrary jobs on any infrastructure. In other words, cloud native tasks-as-a-service.
